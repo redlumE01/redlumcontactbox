@@ -1,0 +1,25 @@
+*{
+  transition: all 0.5s ease;
+}
+
+.fa-icon {
+  padding:4px;
+}
+
+.svg-inline--fa {
+  display:block;
+  width:28px!important;
+  height:28px;
+}
+
+#fontawesome_icon_library,
+#redlum_contact_box_font_awesome_icon {
+  display: block;
+  margin: 0 auto;
+  margin-top:4px;
+}
+
+
+#current_selected_icon {
+  display:none;
+}
